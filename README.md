@@ -3,7 +3,7 @@
 - 👀 I’m interested in cybersecurity, web development, and emerging technologies.
 - 🌱 I’m currently learning front-end development, including HTML, CSS, JavaScript, and React.
 - 💞️ I’m looking to collaborate on web development projects, open-source cybersecurity tools, and innovative tech solutions.
-- 📫 How to reach me: [Your Email] | [Your LinkedIn] | [Your Twitter]
+- 📫 How to reach me: [kw7580639@gmail.com] | [https://www.linkedin.com/in/khaled-waleed-72b804248/]  
 
 ### About Me
 
